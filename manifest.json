@@ -1,0 +1,15 @@
+{
+"name": "AgilePoker",
+"short_name": "AgilePoker",
+"theme_color": "#2a0044",
+"background_color": "#2a0044",
+"display": "standalone",
+"start_url": "/",
+"icons": [
+{
+"src": "http://www.nddecoracoes.com.br/public/uploads/destaques/e524d8b0434a7ed00a077aa287ab8a35.jpg",
+"sizes": "72x72",
+"type": "image/png"
+}
+]
+}
