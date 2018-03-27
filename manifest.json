@@ -3,7 +3,7 @@
   "short_name": "DecoraFesta",
   "lang": "pt-BR",
   "start_url": "/",
-  "display": "autônomo",
+  "display": "standalone",
   "ícons": [
     {
       "src": "foto.jpg",
