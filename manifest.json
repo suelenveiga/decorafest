@@ -1,7 +1,7 @@
 {
   "name": "DecoraFesta",
   "short_name": "DecoraFesta",
-  "lang": "pt-BR",
+
   "start_url": "/",
   "display": "standalone",
   "ícons": [
