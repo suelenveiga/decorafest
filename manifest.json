@@ -4,7 +4,7 @@
   "lang": "pt-BR",
   "start_url": "/",
   "display": "standalone",
-  "ícons": [
+  "icons": [
     {
       "src": "foto.jpg",
       "sizes": "192x192",
